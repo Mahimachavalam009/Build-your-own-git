@@ -2,4 +2,6 @@
 
 #  Using Redis in C++
 
+Step 1: 
+
 ![image](https://github.com/user-attachments/assets/828b22ac-c4d6-4265-a546-c18448b89c9d)
